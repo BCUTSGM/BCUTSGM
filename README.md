@@ -46,7 +46,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/BCUTSGM/BCUTSGM/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph Dark" />
+  <img src="https://raw.githubusercontent.com/BCUTSGM/BCUTSGM/output/pacman-contribution-graph-dark.gif" alt="Pacman Contribution Graph Dark" />
   <img src="https://raw.githubusercontent.com/BCUTSGM/BCUTSGM/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 </picture>
 
